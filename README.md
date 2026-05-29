@@ -9,7 +9,7 @@ In addition to those two tools, we also have several quick links setup:
 
 - [socialcg.org](https://socialcg.org) which redirects to `https://www.w3.org/community/socialcg/`
 - [calendar.socialcg.org](https://calendar.socialcg.org) which redirects to `https://www.w3.org/groups/cg/socialcg/calendar/`
-- [ml.socialcg.org](https://lists.w3.org/Archives/Public/public-swicg/)
+- [ml.socialcg.org](https://lists.w3.org/Archives/Public/public-swicg/) which redirects to `https://lists.w3.org/Archives/Public/public-swicg/`
 
 This service is **not** meant to replace [ActivityPub.rocks](https://activitypub.rocks), but is rather intended for tools that we need as task force leads within the [Social Web CG](https://www.w3.org/community/socialcg/) to effectively write specifications.
 
